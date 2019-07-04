@@ -2,4 +2,4 @@
 
 <p> Para executar:
 <p> ./make.sh
-<p> ./cmenos <arquivo>
+<p> ./cmenos "arquivo.txt"
