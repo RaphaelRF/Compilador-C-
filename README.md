@@ -1,5 +1,5 @@
 # Compilador C-
 
-Para executar:\n
-./make.sh\n
-./cmenos <arquivo>
+<p> Para executar:
+<p> ./make.sh
+<p> ./cmenos <arquivo>
