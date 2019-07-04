@@ -1,0 +1,1 @@
+void generateBinary (AssemblyCode a, int size);
