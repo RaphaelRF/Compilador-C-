@@ -38,6 +38,7 @@ void insertFun(char *id)
         while (f->next != NULL)
             f = f->next;
         f->next = new;
+
     }
     nscopes++;
 }
